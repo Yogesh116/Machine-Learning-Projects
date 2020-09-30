@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 from os import listdir
 from os.path import isfile, join
+#comment
 
 # Get the training data we previously made
 data_path = 'C:/Users/yogesh/Downloads/CSE contents/faces/'
